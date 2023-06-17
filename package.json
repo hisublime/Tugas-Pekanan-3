@@ -1,0 +1,19 @@
+{
+  "name": "tugas-pekanan-3",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 3 - Javascript",
+  "main": "index.js",
+  "scripts": {
+    "soal1": "node soal1.js",
+    "soal2": "node soal2.js"
+  },
+  "keywords": [
+    "tugas3"
+  ],
+  "author": "hisublime",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "sqrt": "^0.0.1"
+  }
+}
